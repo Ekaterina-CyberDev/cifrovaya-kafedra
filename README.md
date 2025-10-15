@@ -1,1 +1,1 @@
-# cifrovaya-kafedra1
+# cifrovaya-kafedra
